@@ -1,3 +1,2 @@
-# 👋 Hi there
-### 😻 Hacking in the Clang and LLVM compiler!
+### Having fun with compilers!
 
