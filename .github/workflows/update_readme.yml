@@ -19,7 +19,7 @@ jobs:
     - name: Create local changes
       run: |
         pip install -r requirements.txt
-        python generate_readme.py
+        python generate.py
     - name: Commit changes
       run: |
         git config --local user.email "jun@junz.org"
