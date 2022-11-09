@@ -24,8 +24,8 @@ jobs:
         python generate.py
     - name: Commit changes
       run: |
-        git config --local user.email "jun@junz.org"
-        git config --local user.name "Jun Zhang"
+        git config --local user.email "update-bot@update-bot.org"
+        git config --local user.name "README Update Bot"
         git commit -m "Update today's image from NASA on $(date +%Y-%m-%d)" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
