@@ -4,7 +4,7 @@ from lxml import etree
 URL = "https://apod.nasa.gov/apod/"
 
 README = """
-<p align="center"><img src="{image_url}"></p>
+<p align="center"><img src="{image_url}" width="500" height="500"></p>
 <h2 align="center">{image_desc}</h2>
 """
 
