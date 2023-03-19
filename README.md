@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://apod.nasa.gov/apod/image/2303/medusaNeb1024.jpg" width="500" height="500"></p>
-<h2 align="center">The Medusa Nebula</h2>
+<p align="center"><img src="https://apod.nasa.gov/apod/image/2303/WR124_Webb1024.png" width="500" height="500"></p>
+<h2 align="center">Wolf-Rayet 124</h2>
