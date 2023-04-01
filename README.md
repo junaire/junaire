@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://apod.nasa.gov/apod/image/2303/Doodad200mmAPOD1024crop.jpg" width="500" height="500"></p>
-<h2 align="center"> NGC 4372 and the Dark Doodad </h2>
+<p align="center"><img src="https://apod.nasa.gov/apod/image/2303/PIA21923_fig1SeeingTitan1024.jpg" width="500" height="500"></p>
+<h2 align="center"> Seeing Titan </h2>
