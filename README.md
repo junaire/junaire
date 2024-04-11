@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://apod.nasa.gov/apod/image/2404/StanHonda2024TSEMagogCanada1200.jpg" width="500" height="500"></p>
-<h2 align="center"> Moon's Shadow over Lake Magog</h2>
+<p align="center"><img src="https://apod.nasa.gov/apod/image/2404/EclipsePlanets_Vetter_960.jpg" width="500" height="500"></p>
+<h2 align="center"> Planets Around a Total Eclipse </h2>
