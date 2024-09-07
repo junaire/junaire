@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://apod.nasa.gov/apod/image/2409/NGC247-Hag-Ben1024.JPG" width="500" height="500"></p>
-<h2 align="center"> NGC 247 and Friends </h2>
+<p align="center"><img src="https://apod.nasa.gov/apod/image/2409/NeptuneTriton_webb1059.png" width="500" height="500"></p>
+<h2 align="center"> Ringed Ice Giant Neptune </h2>
