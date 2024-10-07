@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://apod.nasa.gov/apod/image/2410/m27_RGB_CC_FLAT_MEW1024.jpg" width="500" height="500"></p>
-<h2 align="center"> M27: Not a Comet </h2>
+<p align="center"><img src="https://apod.nasa.gov/apod/image/2410/comet_mcnaught_960.jpg" width="500" height="500"></p>
+<h2 align="center"> The Magnificent Tail of Comet McNaught </h2>
