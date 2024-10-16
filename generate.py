@@ -35,6 +35,6 @@ if __name__ == "__main__":
     image_desc, image_url = fetch_image(URL)
     if image_desc is None or image_url is None:
         print("Invalid data when fetching the image, do nothing today")
-        return
-    generate(README, image_desc, image_url)
+    else:
+        generate(README, image_desc, image_url)
 
