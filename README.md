@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://apod.nasa.gov/apod/image/2502/FishPlume_LaMontagne_960.jpg" width="500" height="500"></p>
-<h2 align="center"> SpaceX Rocket Launch Plume over California </h2>
+<p align="center"><img src="https://apod.nasa.gov/apod/image/2502/SeagullThor_Martino_960.jpg" width="500" height="500"></p>
+<h2 align="center"> Thor's Helmet versus the Seagull </h2>
