@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://apod.nasa.gov/apod/image/2503/Abell7_VChander1024.jpg" width="500" height="500"></p>
-<h2 align="center"> Planetary Nebula Abell 7 </h2>
+<p align="center"><img src="https://apod.nasa.gov/apod/image/2503/iss072e574593_DonPetit1024.jpg" width="500" height="500"></p>
+<h2 align="center"> Galaxies in Space </h2>
