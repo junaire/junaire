@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://apod.nasa.gov/apod/image/2509/C2025_R2_Swan_20250921s1024.jpg" width="500" height="500"></p>
-<h2 align="center">A SWAN, an ATLAS, and Mars</h2>
+<p align="center"><img src="https://apod.nasa.gov/apod/image/2509/IMAP-IG2-001_1024.JPG" width="500" height="500"></p>
+<h2 align="center">A Rocket in the Sun </h2>
