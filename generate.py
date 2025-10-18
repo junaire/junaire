@@ -1,27 +1,37 @@
 import requests
 from lxml import etree
 
-URL = "https://apod.nasa.gov/apod/"
+URL = "https://c.xkcd.com/random/comic/"
 
 README = """
-<p align="center"><img src="{image_url}" width="500" height="500"></p>
+<p align="center"><img src="{image_url}"></p>
 <h2 align="center">{image_desc}</h2>
 """
 
 
-def fetch_image(base_url):
+def fetch_image(url):
     print("Fetching the image!")
-    url = base_url + "astropix.html"
     response = requests.get(url)
     assert response.status_code == 200, "Can't grab the page!"
     html = etree.HTML(response.content)
 
-    img_relative_url = html.xpath("//center//a/img/@src")
-    if len(img_relative_url) != 1:
-        return None, None
-    image_url = base_url + img_relative_url[0]
+    # Get the comic image from the div with id="comic"
+    img_src = html.xpath('//div[@id="comic"]//img/@src')
+    img_alt = html.xpath('//div[@id="comic"]//img/@alt')
+    img_title = html.xpath('//div[@id="ctitle"]/@title')
 
-    image_desc = html.xpath("//body//center/b/text()")[0]
+    if not img_src or not img_alt:
+        return None, None
+
+    # xkcd uses protocol-relative URLs, so add https:
+    image_url = img_src[0]
+    if image_url.startswith('//'):
+        image_url = 'https:' + image_url
+
+    # Use alt text as title, and include hover text if available
+    image_desc = img_alt[0]
+    if img_title:
+        image_desc += f" - {img_title[0]}"
 
     return image_desc, image_url
 
