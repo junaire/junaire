@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/lane_change_highway.png"></p>
-<h2 align="center">Lane Change Highway</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/chess_notation.png"></p>
+<h2 align="center">Chess Notation</h2>
