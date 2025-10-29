@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/chess_notation.png"></p>
-<h2 align="center">Chess Notation</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/joshing.png"></p>
+<h2 align="center">Joshing</h2>
