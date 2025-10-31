@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/cold_medicine.png"></p>
-<h2 align="center">Cold Medicine</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/morning_routine.png"></p>
+<h2 align="center">Morning Routine</h2>
