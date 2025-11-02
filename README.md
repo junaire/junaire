@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/luna_2.png"></p>
-<h2 align="center">Luna 2</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/pointers.png"></p>
+<h2 align="center">Pointers</h2>
