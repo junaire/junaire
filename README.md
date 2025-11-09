@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/geologic_periods.png"></p>
-<h2 align="center">Geologic Periods</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/woodpecker.png"></p>
+<h2 align="center">Woodpecker</h2>
