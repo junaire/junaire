@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/doctors_office.png"></p>
-<h2 align="center">Doctor's Office</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/valentine_dilemma.png"></p>
+<h2 align="center">Valentine Dilemma</h2>
