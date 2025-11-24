@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/understocked.png"></p>
-<h2 align="center">Understocked</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/mispronouncing.png"></p>
+<h2 align="center">Mispronouncing</h2>
