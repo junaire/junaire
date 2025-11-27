@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/maslows_pyramid.png"></p>
-<h2 align="center">Maslow's Pyramid</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/reload.png"></p>
+<h2 align="center">Reload</h2>
