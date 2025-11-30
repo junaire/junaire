@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/fight_club.png"></p>
-<h2 align="center">Fight Club</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/materials_scientists.png"></p>
+<h2 align="center">Materials Scientists</h2>
