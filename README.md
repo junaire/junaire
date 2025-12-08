@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/barge.png"></p>
-<h2 align="center">Barge</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/namespace_land_rush.png"></p>
+<h2 align="center">Namespace Land Rush</h2>
