@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/potential.png"></p>
-<h2 align="center">Potential</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/crazy_straws.png"></p>
+<h2 align="center">Crazy Straws</h2>
