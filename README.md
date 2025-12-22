@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/blanket_fort.png"></p>
-<h2 align="center">Blanket Fort</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/mission.png"></p>
+<h2 align="center">Mission</h2>
