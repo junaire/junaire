@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/null_hypothesis.png"></p>
-<h2 align="center">Null Hypothesis</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/time_travel_thesis.png"></p>
+<h2 align="center">Time Travel Thesis</h2>
