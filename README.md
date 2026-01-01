@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/wish_on_a_shooting_star.png"></p>
-<h2 align="center">Wish on a Shooting Star</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/broken_model.png"></p>
+<h2 align="center">Broken Model</h2>
