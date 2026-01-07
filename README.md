@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/batman.png"></p>
-<h2 align="center">Batman</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/rewiring.png"></p>
+<h2 align="center">Rewiring</h2>
