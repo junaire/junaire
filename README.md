@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/replication_crisis.png"></p>
-<h2 align="center">Replication Crisis</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/dna.png"></p>
+<h2 align="center">DNA</h2>
