@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/words_that_end_in_gry.png"></p>
-<h2 align="center">Words that End in GRY</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/music_drm.png"></p>
+<h2 align="center">Music DRM</h2>
