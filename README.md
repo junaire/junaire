@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/research_risks.png"></p>
-<h2 align="center">Research Risks</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/helium_reserve.png"></p>
+<h2 align="center">Helium Reserve</h2>
