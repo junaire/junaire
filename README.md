@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/helium_reserve.png"></p>
-<h2 align="center">Helium Reserve</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/vice_president_first_names.png"></p>
+<h2 align="center">Vice President First Names</h2>
