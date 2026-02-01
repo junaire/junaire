@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/low_background_metal.png"></p>
-<h2 align="center">Low-Background Metal</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/giraffes.png"></p>
+<h2 align="center">Giraffes</h2>
