@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/stratigraphic_record.png"></p>
-<h2 align="center">Stratigraphic Record</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/phishing_license.png"></p>
+<h2 align="center">Phishing License</h2>
