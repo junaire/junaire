@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/sample.png"></p>
-<h2 align="center">Sample</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/28_hour_day.png"></p>
+<h2 align="center">28-Hour Day</h2>
