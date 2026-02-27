@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/foucault_pendulum.png"></p>
-<h2 align="center">Foucault Pendulum</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/cicadas.png"></p>
+<h2 align="center">Cicadas</h2>
