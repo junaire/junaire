@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/thesis_defense.png"></p>
-<h2 align="center">Thesis Defense</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/headline_words.png"></p>
+<h2 align="center">Headline Words</h2>
