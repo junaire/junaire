@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/uk_coal.png"></p>
-<h2 align="center">UK Coal</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/unquote.png"></p>
+<h2 align="center">Unquote</h2>
