@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/positive_attitude.png"></p>
-<h2 align="center">Positive Attitude</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/hand_sanitizer.png"></p>
+<h2 align="center">Hand Sanitizer</h2>
