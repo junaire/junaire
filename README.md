@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/infinite_scrolling.png"></p>
-<h2 align="center">Infinite Scrolling</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/geothmetic_meandian.png"></p>
+<h2 align="center">Geothmetic Meandian</h2>
