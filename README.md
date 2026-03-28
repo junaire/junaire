@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/modern_tools.png"></p>
-<h2 align="center">Modern Tools</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/entwives.png"></p>
+<h2 align="center">Entwives</h2>
