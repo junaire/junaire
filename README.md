@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/captain_speaking.png"></p>
-<h2 align="center">Captain Speaking</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/converting_to_metric.png"></p>
+<h2 align="center">Converting to Metric</h2>
