@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/curve_fitting.png"></p>
-<h2 align="center">Curve-Fitting</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/circuit_symbols.png"></p>
+<h2 align="center">Circuit Symbols</h2>
