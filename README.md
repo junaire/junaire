@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/gmail_com.png"></p>
-<h2 align="center">*@gmail.com</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/photo_deposit.png"></p>
+<h2 align="center">Photo Deposit</h2>
