@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/grammar.png"></p>
-<h2 align="center">Grammar</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/ruling_out.png"></p>
+<h2 align="center">Ruling Out</h2>
