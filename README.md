@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/ruling_out.png"></p>
-<h2 align="center">Ruling Out</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/riemann-zeta.jpg"></p>
+<h2 align="center">Riemann-Zeta</h2>
