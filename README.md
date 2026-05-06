@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/sigil_cycle.png"></p>
-<h2 align="center">Sigil Cycle</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/placebo_blocker.png"></p>
+<h2 align="center">Placebo Blocker</h2>
