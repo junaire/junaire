@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/dfs.png"></p>
-<h2 align="center">DFS</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/eclipse_coolness.png"></p>
+<h2 align="center">Eclipse Coolness</h2>
