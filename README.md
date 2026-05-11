@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/alternate_currency.png"></p>
-<h2 align="center">Alternate Currency</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/cosmologist_genres.png"></p>
+<h2 align="center">Cosmologist Genres</h2>
