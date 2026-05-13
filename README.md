@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/landing/awake.png"></p>
-<h2 align="center">Landing</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/meteor_showers.png"></p>
+<h2 align="center">Meteor Showers</h2>
