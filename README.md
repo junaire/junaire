@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/mistranslations.png"></p>
-<h2 align="center">Mistranslations</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/g-spot.png"></p>
+<h2 align="center">G-Spot</h2>
