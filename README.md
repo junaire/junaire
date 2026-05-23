@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/g-spot.png"></p>
-<h2 align="center">G-Spot</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/fetishes.png"></p>
+<h2 align="center">Fetishes</h2>
