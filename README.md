@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/i_just_dont_trust_them.png"></p>
-<h2 align="center">I Just Don't Trust Them</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/existential_bug_reports.png"></p>
+<h2 align="center">Existential Bug Reports</h2>
