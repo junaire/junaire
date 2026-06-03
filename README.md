@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/thermostat.png"></p>
-<h2 align="center">Thermostat</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/settling.png"></p>
+<h2 align="center">Settling</h2>
