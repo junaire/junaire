@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/settling.png"></p>
-<h2 align="center">Settling</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/flettner_rotor.png"></p>
+<h2 align="center">Flettner Rotor</h2>
