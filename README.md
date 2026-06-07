@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/cell_number.png"></p>
-<h2 align="center">Cell Number</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/make_it_myself.png"></p>
+<h2 align="center">Make It Myself</h2>
