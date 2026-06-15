@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/definitely.png"></p>
-<h2 align="center">Definitely</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/dating_pools.png"></p>
+<h2 align="center">Dating Pools</h2>
