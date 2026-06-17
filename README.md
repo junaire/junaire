@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/drone_fishing.png"></p>
-<h2 align="center">Drone Fishing</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/haskell.png"></p>
+<h2 align="center">Haskell</h2>
