@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/make_it_myself.png"></p>
-<h2 align="center">Make It Myself</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/hand_dryers.png"></p>
+<h2 align="center">Hand Dryers</h2>
