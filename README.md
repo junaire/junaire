@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/steal_this_comic.png"></p>
-<h2 align="center">Steal This Comic</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/obsolete_technology.png"></p>
+<h2 align="center">Obsolete Technology</h2>
