@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/exoplanet_observation.png"></p>
-<h2 align="center">Exoplanet Observation</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/noise_filter.png"></p>
+<h2 align="center">Noise Filter</h2>
