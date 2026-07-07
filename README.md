@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/noise_filter.png"></p>
-<h2 align="center">Noise Filter</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/depth_and_breadth.png"></p>
+<h2 align="center">Depth and Breadth</h2>
