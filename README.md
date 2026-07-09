@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/business_greetings.png"></p>
-<h2 align="center">Business Greetings</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/game_theory.png"></p>
+<h2 align="center">Game Theory</h2>
