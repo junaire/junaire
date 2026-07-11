@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/kilogram.png"></p>
-<h2 align="center">Kilogram</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/forest_walk.png"></p>
+<h2 align="center">Forest Walk</h2>
