@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/house_inputs_and_outputs.png"></p>
-<h2 align="center">House Inputs and Outputs</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/tire_swing.png"></p>
+<h2 align="center">Tire Swing</h2>
