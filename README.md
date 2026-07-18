@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/tire_swing.png"></p>
-<h2 align="center">Tire Swing</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/satellite_imagery.png"></p>
+<h2 align="center">Satellite Imagery</h2>
