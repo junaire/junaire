@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/making_plans.png"></p>
-<h2 align="center">Making Plans</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/arizona_chess.png"></p>
+<h2 align="center">Arizona Chess</h2>
