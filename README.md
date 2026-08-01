@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/screenshots.png"></p>
-<h2 align="center">Screenshots</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/x11.png"></p>
+<h2 align="center">X11</h2>
