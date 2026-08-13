@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/piercing.png"></p>
-<h2 align="center">Piercing</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/cover_up.png"></p>
+<h2 align="center">Cover-Up</h2>
