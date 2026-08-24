@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/suspicion.png"></p>
-<h2 align="center">Suspicion</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/hydrogen_isotopes.png"></p>
+<h2 align="center">Hydrogen Isotopes</h2>
