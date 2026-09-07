@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/reduce_your_payments.png"></p>
-<h2 align="center">Reduce Your Payments</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/time_traveler_causes_of_death.png"></p>
+<h2 align="center">Time Traveler Causes of Death</h2>
