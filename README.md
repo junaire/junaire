@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/division_notation.png"></p>
-<h2 align="center">Division Notation</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/bracket_symbols.png"></p>
+<h2 align="center">Bracket Symbols</h2>
