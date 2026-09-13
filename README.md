@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/rubisco.png"></p>
-<h2 align="center">RuBisCO</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/journal_5.png"></p>
+<h2 align="center">Journal 5</h2>
