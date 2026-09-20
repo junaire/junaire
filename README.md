@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/making_things_difficult.png"></p>
-<h2 align="center">Making Things Difficult</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/quantum_teleportation.png"></p>
+<h2 align="center">Quantum Teleportation</h2>
