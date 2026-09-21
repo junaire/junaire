@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/quantum_teleportation.png"></p>
-<h2 align="center">Quantum Teleportation</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/software_testing_day.png"></p>
+<h2 align="center">Software Testing Day</h2>
