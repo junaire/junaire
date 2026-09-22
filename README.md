@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/software_testing_day.png"></p>
-<h2 align="center">Software Testing Day</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/wisdom_of_the_ancients.png"></p>
+<h2 align="center">Wisdom of the Ancients</h2>
