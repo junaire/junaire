@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/heaven.png"></p>
-<h2 align="center">Heaven</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/messi.png"></p>
+<h2 align="center">Messi</h2>
