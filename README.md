@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/deposition.png"></p>
-<h2 align="center">Deposition</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/decay_chain.png"></p>
+<h2 align="center">Decay Chain</h2>
