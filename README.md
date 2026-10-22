@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/coronavirus_charts.png"></p>
-<h2 align="center">Coronavirus Charts</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/regex_golf.png"></p>
+<h2 align="center">Regex Golf</h2>
