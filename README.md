@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/archimedes_principle.png"></p>
-<h2 align="center">Archimedes Principle</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/frankenstein_captcha.png"></p>
+<h2 align="center">Frankenstein Captcha</h2>
