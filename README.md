@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/immune_response.png"></p>
-<h2 align="center">Immune Response</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/circuit_diagram.png"></p>
+<h2 align="center">Circuit Diagram</h2>
