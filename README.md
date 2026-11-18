@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/book_burning.png"></p>
-<h2 align="center">Book Burning</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/red_spiders_cometh.jpg"></p>
+<h2 align="center">Red Spiders Cometh</h2>
