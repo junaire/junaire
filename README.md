@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/home_solar.png"></p>
-<h2 align="center">Home Solar</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/personal_data.png"></p>
+<h2 align="center">Personal Data</h2>
