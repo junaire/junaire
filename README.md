@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/president.png"></p>
-<h2 align="center">President</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/chemical_formulas.png"></p>
+<h2 align="center">Chemical Formulas</h2>
