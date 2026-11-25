@@ -1,3 +1,3 @@
 
-<p align="center"><img src="https://imgs.xkcd.com/comics/eyelash_wish_log.png"></p>
-<h2 align="center">Eyelash Wish Log</h2>
+<p align="center"><img src="https://imgs.xkcd.com/comics/uv.png"></p>
+<h2 align="center">UV</h2>
